@@ -93,11 +93,11 @@
           "description": "v2RayTun is an application that helps you use proxy servers. It has a user-friendly interface and useful features.",
           "faDescription": "v2RayTun یک برنامه است که به شما کمک می‌کند از سرورهای پروکسی استفاده کنید. این برنامه دارای رابط کاربری آسان و ویژگی‌های مفید است.",
           "configLink": "v2raytun://import/{url}",
-          "downloadLink": "https://apps.apple.com/us/app/v2raytun/id6476628951",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.v2raytun.android",
           "tutorialSteps": [
             {
-              "stepText": "Step 1: Download and install the v2RayTun app from the App Store.",
-              "faStepText": "مرحله ۱: برنامه وی تو ری تان را از اپ استور دانلود و نصب کنید.",
+              "stepText": "Step 1: Download and install the v2RayTun app from the google Play.",
+              "faStepText": "مرحله ۱: برنامه وی تو ری تان را از گوگل پلی دانلود و نصب کنید.",
               "stepImage": "https://raw.githubusercontent.com/Honovida/public-assets-or/refs/heads/main/tutorials/v2raytun/1.jpg"
             },
             {
@@ -124,7 +124,7 @@
           "description": "A V2Ray client for Android devices.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "v2rayng://install-config?url={url}",
-          "downloadLink": "https://github.com/2dust/v2rayNG/releases/latest",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.9/v2rayNG_1.10.9_universal.apk",
           "tutorialSteps": [
             {
               "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
